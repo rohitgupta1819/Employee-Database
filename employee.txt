@@ -1,0 +1,3 @@
+20bcsd01,Boy1,23-12-2001,Emp,20000
+20bcsd02,Boy2,10-11-2003,Employee,40000
+21bcsl21,Praveen,14-04-2023,Emp,15000
